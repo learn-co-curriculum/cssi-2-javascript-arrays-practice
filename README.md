@@ -49,7 +49,7 @@ myArr[3]
 *  Insert the string "Strawberries" into "myArr".
 *  You can pull the last element off the end using the pop method.
 *  Call pop on "myArr". What will myArr[myArr.length - 1] return? Does it?
-*  We can use ![splice](http://www.w3schools.com/jsref/jsref_splice.asp) method to insert content at a given position or to remove content from a given position. Here is the syntax:
+*  We can use [splice](http://www.w3schools.com/jsref/jsref_splice.asp) method to insert content at a given position or to remove content from a given position. Here is the syntax:
 ```javascript
 arrayToModify.splice(index, how many elements to remove, optional content to add);
 ```
