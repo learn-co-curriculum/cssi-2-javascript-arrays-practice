@@ -1,7 +1,4 @@
----
-tags: arrays, data types, loop
-language: JavaScript, JS
----
+
 
 # JavaScript Arrays Practice
 
