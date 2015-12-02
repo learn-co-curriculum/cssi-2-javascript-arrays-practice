@@ -55,3 +55,5 @@ arrayToModify.splice(index, how many elements to remove, optional content to add
 *  Let's say we needed to remove the second to last item, but we do not know how long the array is...We can use negative numbers to go to end of array and index from end to beginning.
 *  Replace "Pears" with "Lion" using the negative index number, using the info above.
 *  Now remove Lion from the 3rd index position using `splice`.
+
+<a href='https://learn.co/lessons/cssi-2-javascript-arrays-practice' data-visibility='hidden'>View this lesson on Learn.co</a>
