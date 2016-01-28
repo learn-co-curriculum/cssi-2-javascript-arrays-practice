@@ -56,4 +56,4 @@ arrayToModify.splice(index, how many elements to remove, optional content to add
 *  Replace "Pears" with "Lion" using the negative index number, using the info above.
 *  Now remove Lion from the 3rd index position using `splice`.
 
-<a href='https://learn.co/lessons/cssi-2-javascript-arrays-practice' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-2-javascript-arrays-practice' title='JavaScript Arrays Practice'>JavaScript Arrays Practice</a> on Learn.co and start learning to code for free.</p>
